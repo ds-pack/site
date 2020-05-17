@@ -1,6 +1,6 @@
-# Template Next.js App
+# DS Pack Site
 
-This repo acts as a template repo for some of my Next.js applications.
+Repository for the DS Pack website
 
 ## Getting Started:
 
