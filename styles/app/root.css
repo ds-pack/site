@@ -1,0 +1,15 @@
+.root_well__1ovlwii0 {
+  width: 35ch;
+  margin: 0 auto;
+}
+.root_callout__1ovlwii1 {
+  border: solid 2px;
+  border-color: var(--colors-green800__1ngcs9h46);
+  background-color: var(--colors-green300__1ngcs9h41);
+  color: var(--colors-black__1ngcs9h15);
+  padding: var(--space-4__1ngcs9h5);
+  border-radius: var(--radii-small__1ngcs9ht);
+}
+:target {
+  box-shadow: -4px 0 0 var(--colors-green400__1ngcs9h42);
+}
